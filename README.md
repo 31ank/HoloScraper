@@ -9,7 +9,7 @@ The scraper was created with Python 3.8.3
 * pytz to convert timezones ```pip install pytz```
 
 ## Setup
-_Database template coming soon_
+_Database template coming soon_<br>
 Insert you database credentials in database-default.py and rename it to database.py.
 Setup your database with the database template.
 You can now run ```python scraper.py``` and it will automatically fill your database.
